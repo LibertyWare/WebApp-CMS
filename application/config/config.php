@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://homepages.shu.ac.uk/~b5042560/WebApp-CMS/';
+$config['base_url'] = 'http://homepages.shu.ac.uk/~b5042560/Assignment/';
 
 /*
 |--------------------------------------------------------------------------

@@ -1,5 +1,5 @@
 Main page:
-http://homepages.shu.ac.uk/~b5042560/WebApp-CMS/index.php/Main
+http://homepages.shu.ac.uk/~b5042560/Assignment/Main
 
 note to self:
 homepages.shu.ac.uk/mysql
