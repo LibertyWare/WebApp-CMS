@@ -1,0 +1,5 @@
+Main page:
+http://homepages.shu.ac.uk/~b5042560/Assignment/index.php/Main
+
+note to self:
+homepages.shu.ac.uk/mysql
