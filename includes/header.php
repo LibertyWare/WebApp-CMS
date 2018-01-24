@@ -1,5 +1,5 @@
 <?php
 echo "<header>
-        <h1> Content Management System (WIP)</h1>
+        <h1>Event Management System</h1>
     </header>";
 ?>

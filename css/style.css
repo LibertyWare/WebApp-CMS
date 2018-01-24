@@ -1,5 +1,6 @@
 body{
     background: #ddd;
+    font-family: sans-serif;
 }
 
 #container{
@@ -98,4 +99,21 @@ nav ul li a:hover{
     padding-top: 50px;
     box-sizing: border-box;
     float:left;
+}
+
+#options{
+    box-sizing: border-box;
+}
+#options a{
+    text-decoration: none;
+    color: #666;
+    padding-right: 20px; 
+}
+#options a:hover{
+    text-decoration: underline;
+    color: #0b4;
+}
+#options a:visited{
+    text-decoration: none;
+    color: #666;
 }

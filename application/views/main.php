@@ -12,23 +12,6 @@
     <?php include "includes/header.php"; include "includes/nav.php";?>
 
     <div id="content">
-    <!--
-        End goal: Content Management System accessing 'events' table which can be searched and added to + some javascript
-        <p>
-            <h2>to do:</h2>
-            <ul>
-                <li>write search and table editing functionality</li>
-                <li>javascript</li>
-                <li>improve css</li>
-            </ul>
-        </p>
-        <p>
-            <h2>done:</h2>
-            <ul>
-                <li>connect to database</li>
-            </ul>
-        </p>
-        -->
         <p>
             <h1>Event List</h1>
             <ul id="eventList">
